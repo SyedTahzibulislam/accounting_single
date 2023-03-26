@@ -1,0 +1,3 @@
+database name:bictsoft_bhospital
+username: bictsoft_bhospital
+password ,dVmE(4pQTbu
